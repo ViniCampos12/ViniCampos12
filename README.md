@@ -1,6 +1,7 @@
 # 🧑‍💻 Vinicius Priamo
 
 **`Desenvolvedor FullStack`**
+**`Engenheiro de Software`**
 
 Me chamo Vinicius Campos Priamo, tenho 20 anos e sou natural de Juiz de Fora - MG. Atualmente, estou cursando Ciências da Computação na Universidade Federal de Juiz de Fora. Sempre gostei de tecnologia e encontrei no desenvolvimento de software a oportunidade de transformar ideias em soluções. Nesse contexto, possuo experiência com projetos web publicados, com Next.js e TypeScript.
 
